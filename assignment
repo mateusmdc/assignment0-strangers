@@ -1,0 +1,29 @@
+Questão 1) Faça um script para Matlab ou Octave que leia dois arquivos,
+cada um contendo um vetor tridimensional (X e Y). Faça as operações a seguir:
+a) soma
+b) subtração
+c) multiplicação por escalar de X (primeiro elemento do vetor) 
+d) norma de Y
+e) produto escalar
+f) produto vetorial
+OBS: pode utilizar as funções do próprio programa.
+
+
+
+Questão 2) Faça um script para Matlab ou Octave que leia dois arquivos,
+cada um contendo uma matriz (A e B). Se elas forem compatíveis faça a 
+multiplicação entre elas (usando a estrutura de laço) e escreva em um arquivo
+a matriz resultante transposta. 
+Compare o resultado com a multiplicação que o próprio programa oferece.
+Caso as matrizes não sejam compatíveis, avise.
+
+
+
+
+LEITURA RECOMENDADA: 
+https://www.mathworks.com/help/matlab/index.html
+http://www2.ic.uff.br/~aconci/GuiaMatLab.pdf
+https://www.telecom.uff.br/pet/petws/downloads/apostilas/MATLAB.pdf
+https://edisciplinas.usp.br/pluginfile.php/144836/mod_resource/content/1/apostila_matlab_octave.pdf
+https://en.wikibooks.org/wiki/Octave_Programming_Tutorial
+
